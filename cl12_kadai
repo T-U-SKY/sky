@@ -23,11 +23,11 @@ img_flip.sabe(output_image)
 ```
 ## 1.使い方
 ### 3.1実行例
- -コマンドラインフォーマット
+ - コマンドラインフォーマット
   ```python
   python3 flip.py<input_image_path><joutput_image_path>
   ```
- -利用例
+ - 利用例
 　```python
   python3 flip.py input.jpg output.jpg
   ```
